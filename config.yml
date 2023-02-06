@@ -1,6 +1,6 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
-title: "My Hugo Site POC"
+title: "Pace 'n Think"
 theme: "hugo-theme-stack"
 module:
   imports:
@@ -24,7 +24,7 @@ params:
   sidebar:
     compact: false
     emoji: 🗞️
-    subtitle: "Welcome to Hugo"
+    subtitle: "Welcome to Pace 'n Think"
     avatar:
       enabled: true
       local: true
@@ -36,16 +36,16 @@ params:
     readingTime: true
     license:
       enabled: true
-      default: Licensed under CC BY-NC-SA 4.0
+      default: Licensed under CC Pace 'n Think
 
   comments:
     enabled: true
     provider: disqus
 
     disqusjs:
-      shortname:
-      apiUrl:
-      apiKey:
+      shortname: devraj-3
+      apiUrl: "https://disqus.com/api/oauth/2.0/authorize/"
+      apiKey: "Et6r4C90TLpHKlByqW1TzCkMFSkSAAycJdUZs5gppnEKlUcaWI1jWPqaAPYnwxAV"
       admin:
       adminLabel:
 
@@ -162,13 +162,13 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/DevrajRangani411/hugo-poc
+      url: https://github.com/pacenthink
       params:
         icon: brand-github
 
     - identifier: twitter
       name: Twitter
-      url: https://twitter.com
+      url: "https://twitter.com/intent/tweet/?text=Semantic%20Versioning&url=http%3a%2f%2fwww.pacenthink.io%2fblog%2fsemantic-versioning%2f&hashtags="
       params:
         icon: brand-twitter
 
