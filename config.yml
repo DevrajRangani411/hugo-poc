@@ -40,7 +40,8 @@ params:
 
   comments:
     enabled: true
-    provider: disqus
+    provider: gitalk
+    enableGitalk: true
 
     disqusjs:
       shortname: devraj-3
