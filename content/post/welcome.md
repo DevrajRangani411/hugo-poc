@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 date: 2023-01-31T23:23:12+05:30
-draft: false
+draft: true
 categories: ["Welcome"]
 tags: ["initial"]
 author: "Devraj Rangani"

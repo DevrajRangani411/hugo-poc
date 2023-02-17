@@ -104,11 +104,11 @@ params:
       lang:
 
     gitalk:
-      owner:
-      admin:
-      repo:
-      clientID:
-      clientSecret:
+      owner: https://github.com/DevrajRangani411
+      admin: https://github.com/DevrajRangani411
+      repo: https://github.com/DevrajRangani411/hugo-poc
+      clientID: 568db565fde4aad049d1
+      clientSecret: 4444352e5c1906299b43e3b47d846cbefe13cc45
 
     cusdis:
       host:
