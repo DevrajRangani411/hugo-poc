@@ -40,7 +40,7 @@ params:
 
   comments:
     enabled: true
-    provider: gitalk
+    provider: disqus
     enableGitalk: true
 
     disqusjs:
